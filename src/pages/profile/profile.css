@@ -1,0 +1,15 @@
+body {
+  background-color: #f0f2f5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.ant-card {
+  background-color: #ffffff;
+}
+
+.ant-btn-link {
+  font-size: 18px;
+  padding: 0;
+}
